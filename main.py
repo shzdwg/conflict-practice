@@ -1,2 +1,2 @@
 # main.py
-print("hello world")
+print("hello from windows")
